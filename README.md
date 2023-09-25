@@ -43,3 +43,9 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ```
 
 ## Deployment
+
+Deployed Image - 
+
+Deployed local server link - http://127.0.0.1:5173/
+
+Github Link - https://github.com/ErFaizanMemon/Portfolio-React
