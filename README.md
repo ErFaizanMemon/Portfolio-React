@@ -48,4 +48,6 @@ Deployed Image - https://github.com/ErFaizanMemon/Portfolio-React/blob/master/De
 
 Deployed local server link - http://127.0.0.1:5173/
 
-Github Link - https://github.com/ErFaizanMemon/Portfolio-React
+Deployed Git link - https://erfaizanmemon.github.io/Portfolio-React/
+
+Github Repo Link - https://github.com/ErFaizanMemon/Portfolio-React
